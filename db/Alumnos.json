@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "64513c578245264846216582"
+  },
+  "legajo": "12345678",
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c578245264846216583"
+  },
+  "legajo": "23456789",
+  "nombre": "María",
+  "apellido": "González",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c578245264846216584"
+  },
+  "legajo": "34567890",
+  "nombre": "Pedro",
+  "apellido": "Gómez",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c578245264846216585"
+  },
+  "legajo": "45678901",
+  "nombre": "Ana",
+  "apellido": "López",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c578245264846216586"
+  },
+  "legajo": "56789012",
+  "nombre": "Luis",
+  "apellido": "Fernández",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c578245264846216587"
+  },
+  "legajo": "67890123",
+  "nombre": "Carla",
+  "apellido": "García",
+  "año": 2021,
+  "deleted": true
+},{
+  "_id": {
+    "$oid": "64513c578245264846216588"
+  },
+  "legajo": "78901234",
+  "nombre": "José",
+  "apellido": "Martínez",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c578245264846216589"
+  },
+  "legajo": "89012345",
+  "nombre": "Lucía",
+  "apellido": "Díaz",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658a"
+  },
+  "legajo": "90123456",
+  "nombre": "Diego",
+  "apellido": "Rodríguez",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658b"
+  },
+  "legajo": "01234567",
+  "nombre": "Marta",
+  "apellido": "Sánchez",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658c"
+  },
+  "legajo": "23456789",
+  "nombre": "Jorge",
+  "apellido": "González",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658d"
+  },
+  "legajo": "34567890",
+  "nombre": "Laura",
+  "apellido": "Gómez",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658e"
+  },
+  "legajo": "45678901",
+  "nombre": "Gabriel",
+  "apellido": "López",
+  "año": 2020
+},{
+  "_id": {
+    "$oid": "64513c57824526484621658f"
+  },
+  "legajo": "56789012",
+  "nombre": "Silvana",
+  "apellido": "Fernández",
+  "año": 2021
+},{
+  "_id": {
+    "$oid": "64513c578245264846216590"
+  },
+  "legajo": "67890123",
+  "nombre": "Daniel",
+  "apellido": "García",
+  "año": 2020
+}]
